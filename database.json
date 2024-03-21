@@ -1,0 +1,125 @@
+{
+  "Banner": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/banner1.png?alt=media&token=16fdd871-27bf-408d-be96-766e2a5944be"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/project175-f1c13.appspot.com/o/banner2.png?alt=media&token=2c2a98de-2240-4130-8a89-7fbe7e49fa21"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/cat1.png?alt=media&token=a50f8fd7-3722-4b1d-9cd9-74e7276f95f0",
+      "title": "Adidas"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/cat2.png?alt=media&token=7f6421e2-674b-4d4f-853b-d4f61084be2f",
+      "title": "Nike"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/cat3.png?alt=media&token=937b1dcb-dcbb-4ec4-946e-1b8df120ddfc",
+      "title": "Puma"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/cat4.png?alt=media&token=68ce26e0-f607-40ff-8d6b-ce2bb6169613",
+      "title": "Skechers"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/cat5.png?alt=media&token=2afe91ca-02b7-407b-a2f4-fc8cb7072e39",
+      "title": "Reebok"
+    },
+    {
+      "id": 5,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/cat6.png?alt=media&token=fe71cf9f-bc39-4ec6-b8e9-a8cc792d8104",
+      "title": "Lacoste"
+    }
+
+  ],
+  "Items": [
+    {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/shoes1.png?alt=media&token=85a5b3a4-9641-48d1-833c-27eb03f2b6ef",
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/n1.png?alt=media&token=621f67e5-00d2-4347-9bf8-baa5210e6057",
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/n2.png?alt=media&token=2a2bfab7-4d68-4f58-b88f-4cd17f4e6fb8",
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/n3.png?alt=media&token=70d375eb-8c4d-44e4-972d-2799a846b4b5",
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/n4.png?alt=media&token=6cace2cd-cf66-4542-bfef-cf2328983c5c",
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/n5.png?alt=media&token=1363a098-5fcb-473a-b080-d4674df2fd2d"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+	"44"
+      ],
+      "title": "Pink singlet"
+    },
+    {
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/shoes2.png?alt=media&token=120816bb-4716-48ef-be10-10485b4d1189"
+      ],
+      "price": 55,
+      "rating": 4.1,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+         "43",
+	"44"
+
+      ],
+      "title": "Jean Coat"
+    },
+    {
+      "description": "This cozy orange cable knit sweater is perfect for winter weather. Made from 100% wool, it's warm and stylish. It features a classic crewneck collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/shoes3.png?alt=media&token=c3e52118-40d5-4aa1-b138-3a7731fee040"
+      ],
+      "price": 75,
+      "rating": 4.5,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+	"44"
+
+      ],
+      "title": "Orange Knit Sweater"
+    },
+    {
+      "description": "This stylish red and black plaid shirt is perfect for any occasion. Made from a soft cotton blend, it's comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/project176-4aeec.appspot.com/o/shoes4.png?alt=media&token=01ddfc99-5ab9-4789-8854-51fbf103f6d9"
+      ],
+      "price": 40,
+      "rating": 4.2,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+         "43",
+	"44"
+
+      ],
+      "title": "Plaid shirt"
+    }
+  ]
+}
